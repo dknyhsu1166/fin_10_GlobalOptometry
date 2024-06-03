@@ -1,0 +1,100 @@
+[
+    {
+        "title": "加美透明月拋",
+        "horizontal": true,
+        "data": [
+            {
+                "id": "10",
+                "name": "真水感透明月拋",
+                "big": "true",
+                "price": "$180",
+                "unit": "副",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/len1.png?raw=true"
+            },
+            {
+                "id": "11",
+                "name": "美麗秘密矽水膠月拋",
+                "big": "true",
+                "price": "$230",
+                "unit": "副",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/len2.png?raw=true"
+            }
+        ]
+    },
+    {
+        "title": "加美冰鑽彩色月拋",
+        "titleimage": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/hot1.png?raw=true",
+        "horizontal": true,
+        "data": [
+            {
+                "id": "12",
+                "titlename": "加美冰鑽彩色月拋",
+                "price": "$170",
+                "name": "冰鑽黑",
+                "unit": "副",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor1/1.png?raw=true"
+            },
+            {
+                "id": "13",
+                "titlename": "加美冰鑽彩色月拋",
+                "price": "$170",
+                "name": "冰鑽棕",
+                "unit": "副",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor1/2.png?raw=true"
+            }
+        ]
+    },{
+        "title": "加美醉心彩色月拋",
+        "titleimage": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor1/3.png?raw=true",
+        "horizontal": true,
+        "data": [
+            {
+                "id": "14",
+                "titlename": "加美醉心彩色月拋",
+                "price": "$170",
+                "name": "醉心橙",
+                "unit": "副",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor1/3.png?raw=true"
+            },
+            {
+                "id": "15",
+                "titlename": "加美醉心彩色月拋",
+                "price": "$170",
+                "name": "醉心棕",
+                "unit": "副",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor1/4.png?raw=true"
+            },
+            {
+                "id": "16",
+                "titlename": "加美醉心彩色月拋",
+                "price": "$170",
+                "name": "醉心灰",
+                "unit": "副",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor1/5.png?raw=true"
+            }
+        ]
+    },
+    {
+        "title": "加美彩色月拋",
+        "titleimage": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/hot2.png?raw=true",
+        "horizontal": true,
+        "data": [
+            {
+                "id": "17",
+                "titlename": "加美彩色月拋",
+                "price": "$170",
+                "name": "大眼深棕",
+                "unit": "副",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor1/6.png?raw=true"
+            },
+            {
+                "id": "18",
+                "titlename": "加美彩色月拋",
+                "price": "$170",
+                "name": "大眼黑",
+                "unit": "副",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor1/7.png?raw=true"
+            }
+        ]
+    }
+]

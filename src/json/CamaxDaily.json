@@ -1,0 +1,107 @@
+[
+    {
+        "title": "加美透明日拋",
+        "horizontal": true,
+        "data": [
+            {
+                "id": "0",
+                "name": "加美水嫩極淬日拋",
+                "big": "true",
+                "price": "$300",
+                "unit": "盒",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/len10.png?raw=true"
+            },
+            {
+                "id": "1",
+                "name": "加美水嫩日拋",
+                "big": "true",
+                "price": "$350",
+                "unit": "盒",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/len11.png?raw=true"
+            }
+        ]
+    },
+    {
+        "title": "加美彩色日拋 - 光雨系列",
+        "titleimage": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/hot1.png?raw=true",
+        "horizontal": true,
+        "data": [
+            {
+                "id": "2",
+                "titlename": "加美彩色日拋 - 光雨系列",
+                "price": "$200",
+                "name": "光雨橙",
+                "unit": "盒",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor3/1.png?raw=true"
+            },
+            {
+                "id": "3",
+                "titlename": "加美彩色日拋 - 光雨系列",
+                "price": "$200",
+                "name": "光雨灰",
+                "unit": "盒",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor3/2.png?raw=true"
+            },
+            {
+                "id": "4",
+                "titlename": "加美彩色日拋 - 光雨系列",
+                "price": "$200",
+                "name": "光雨粉",
+                "unit": "盒",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor3/3.png?raw=true"
+            }
+        ]
+    },{
+        "title": "加美彩色日拋",
+        "titleimage": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/hot1.png?raw=true",
+        "horizontal": true,
+        "data": [
+            {
+                "id": "5",
+                "titlename": "加美彩色日拋",
+                "price": "$180",
+                "name": "銀燦灰",
+                "unit": "盒",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor3/4.png?raw=true"
+            },
+            {
+                "id": "6",
+                "titlename": "加美彩色日拋",
+                "price": "$180",
+                "name": "金縷棕",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor3/5.png?raw=true"
+            }
+        ]
+    },
+    {
+        "title": "加美彩色日拋",
+        "titleimage": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/hot1.png?raw=true",
+        "horizontal": true,
+        "data": [
+            {
+                "id": "7",
+                "titlename": "加美彩色日拋",
+                "price": "$180",
+                "name": "美瞳紫",
+                "unit": "盒",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor3/6.png?raw=true"
+            },
+            {
+                "id": "8",
+                "titlename": "加美彩色日拋",
+                "price": "$180",
+                "name": "美瞳棕",
+                "unit": "盒",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor3/7.png?raw=true"
+            },
+            {
+                "id": "9",
+                "titlename": "加美彩色日拋",
+                "price": "$180",
+                "name": "美瞳黑",
+                "unit": "盒",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/CamaxColor3/8.png?raw=true"
+            }
+        ]
+    }
+]

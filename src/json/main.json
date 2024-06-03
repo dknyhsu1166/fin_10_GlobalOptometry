@@ -1,0 +1,50 @@
+[
+    {
+        "title": "新品上市",
+        "horizontal": true,
+        "data": [
+            {
+                "name": "加美彩色日拋",
+                "series": "光雨系列",
+                "navigation": "camax",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/new1.png?raw=true"
+            },
+            {
+                "name": "海昌彩色月拋",
+                "series": "百變濾藍光系列",
+                "navigation": "hydron",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/new2.PNG?raw=true"
+            },
+            {
+                "name": "海昌彩色日拋",
+                "series": "百變濾藍光系列",
+                "navigation": "hydron",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/new3.png?raw=true"
+            }
+        ]
+    },
+    {
+        "title": "熱門商品",
+        "horizontal": true,
+        "data": [
+            {
+                "name": "海昌彩色月拋",
+                "series": "星眸-城市系列",
+                "navigation": "hydron",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/hot1.png?raw=true"
+            },
+            {
+                "name": "海昌彩色月拋",
+                "series": "星眸-孔雀系列",
+                "navigation": "hydron",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/hot2.png?raw=true"
+            },
+            {
+                "name": "加美彩色月拋",
+                "series": "醉心系列",
+                "navigation": "camax",
+                "image": "https://github.com/dknyhsu1166/app_test/blob/main/src/images/hot3.png?raw=true"
+            }
+        ]
+    }
+]
